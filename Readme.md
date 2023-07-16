@@ -27,6 +27,6 @@ nc <remote address> <port>
 
 
 ## License & Copyright
-**[frdiouf](https://learn.zone01dakar.sn/git/frdiouf)** <br>
-**[bindoye](https://learn.zone01dakar.sn/git/bindoye)**<br>
+**frdiouf** <br>
+**bindoye**<br>
 **[mamoundiaye](https://learn.zone01dakar.sn/git/mamoundiaye)**
